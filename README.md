@@ -1,3 +1,6 @@
+Terima kasih telah memperhatikan, Sabita! Berikut adalah revisi `README.md` dengan posisi link yang lebih jelas pada bagian **Resources**: 
+
+```markdown
 # Frontend Developer Portfolio
 
 This repository showcases my personal portfolio as a Frontend Developer, created using HTML and CSS. The portfolio includes details about my projects, educational background, courses I've taken, work experience, and reviews from my teachers.
@@ -9,6 +12,7 @@ This repository showcases my personal portfolio as a Frontend Developer, created
 - [File Structure](#file-structure)
 - [Technologies Used](#technologies-used)
 - [Usage](#usage)
+- [Resources](#resources)
 - [License](#license)
 
 ---
@@ -36,3 +40,34 @@ This portfolio is designed to demonstrate my skills as a Frontend Developer. It 
 ```plaintext
 |-- index.html      # Main HTML file for the portfolio
 |-- style.css       # CSS file for styling the portfolio
+```
+
+---
+
+## Technologies Used
+
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling the content, including responsiveness.
+
+---
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/portfolio.git
+   ```
+2. Open the `index.html` file in a web browser to view the portfolio.
+
+---
+
+## Resources
+
+This portfolio was inspired by the project guide available at [Portfolio Website Guide](https://roadmap.sh/projects/portfolio-website).  
+If you're interested in creating a similar portfolio, you can click the link above to explore detailed steps and guidelines.
+
+---
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
