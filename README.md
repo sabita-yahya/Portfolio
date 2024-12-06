@@ -1,6 +1,3 @@
-Terima kasih telah memperhatikan, Sabita! Berikut adalah revisi `README.md` dengan posisi link yang lebih jelas pada bagian **Resources**: 
-
-```markdown
 # Frontend Developer Portfolio
 
 This repository showcases my personal portfolio as a Frontend Developer, created using HTML and CSS. The portfolio includes details about my projects, educational background, courses I've taken, work experience, and reviews from my teachers.
